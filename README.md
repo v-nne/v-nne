@@ -11,7 +11,7 @@
 ◈ ARTIST · DEV · CREATOR · VISIONARY ◈
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=multidisciplinary+artist+🎨;full-stack+developer+💻;music+producer+%26+musician+🎵;graphic+designer+%26+photographer+📸;videographer+%26+model+🎬;building+at+the+intersection+of+art+%26+code" alt="Typing SVG" />
+
 
 </div>
 
